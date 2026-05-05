@@ -1,4 +1,4 @@
-# 🛡 /security-scan
+# /security-scan
 
 A Claude Code slash command that runs a deep, OWASP Top 10 security audit on your codebase. It uses Opus for maximum reasoning depth and produces a CVSS-scored report with actionable remediation steps.
 
